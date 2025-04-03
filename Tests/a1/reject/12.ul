@@ -1,0 +1,5 @@
+int main (int x) {
+	if (if (x==3) {return;} ) {
+		return;
+	}
+}

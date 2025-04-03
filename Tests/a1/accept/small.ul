@@ -1,0 +1,33 @@
+int[2] hi (int[4] x, int y, float[2] z, char[55] q) {
+float x;
+string f;
+	print x;
+	print x-1;
+	foo();
+	foo(5,x,3.2);
+	return;
+}
+
+void main () {
+	int x;
+	x == 3;
+	43-2*(3+1);
+	if(x<3){x;}
+	if(x==3){x;}else{x-2;}
+	while(x){x;y;}
+	if (x==1) {
+		if (y==1) {
+			if (z==3) {
+				z = z + 1;
+			}
+		} else {
+			x = 3;
+			x = 2+3*(x-1);
+		}
+	} else {
+		while (x==2) {
+			println((x));
+		}
+	}
+	return foo();
+}

@@ -1,0 +1,10 @@
+CSC 435 assignment 4 - by peter chepelev
+
+to compile, run make
+
+to generate .j files:
+java Compiler <sourcecode filename> > <output .j filename>
+
+(output must be piped into a new file via command line)
+
+Tests are in Tests/a3, there are four test cases i wrote there.

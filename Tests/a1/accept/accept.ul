@@ -1,0 +1,73 @@
+void main () {
+	int x;
+	int[2] x;
+	float[2] x;
+	float x;
+	char x;
+	char[2] x;
+	string x;
+	string[3] x;
+}
+//commentcoeececec
+int asd (int x, float [4] j) {//dawdawdawdwad
+	;
+	x;
+	3;
+	0000;
+	3000;
+	2.222;
+	2.333;
+	123123.323;
+	0.333;//awdawdawd
+	"awdawd_adaASDAsccc    232342sdf";
+	"             adASDdad ";
+	'a';
+	'4';
+	' ';
+	x+3;
+	x-3;
+	x*3;
+	x<3;
+	x==3<2;
+	x+3-2;
+	x+3*2;
+	x<3-x*2;
+	x-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3;
+	x[2];
+	x[2+3];
+	x[x[x[x]]];
+	x(x+3,x[2]);//another ocmmenet
+	(x+2);
+	print x;
+	println x;
+	return;
+	return x;
+	x = y;
+	x = 3+3+x(x[33], x-y);
+	x[2] = 3-x;
+	_222[222] = x-x-x;
+	while (x==3) {
+		while (x-3-3-3-x==2) {
+			x=2;
+			if (x) {
+				if (x[2] < 2 +3*x) {
+					return;
+				} else {
+					
+				}
+			}
+		}
+	}
+}
+
+float asd () {
+
+}
+
+char[3] gdd () {
+
+}
+
+string [333] sdf (int x) {
+
+}

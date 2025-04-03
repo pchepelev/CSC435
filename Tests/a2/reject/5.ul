@@ -1,0 +1,5 @@
+void main(){
+	int[3] x;
+	int[5] y;
+	x=y;
+}

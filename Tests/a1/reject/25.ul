@@ -1,0 +1,3 @@
+int main (int x) {
+	id [(2,2)];
+}

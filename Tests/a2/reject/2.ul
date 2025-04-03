@@ -1,0 +1,9 @@
+void main(){
+	int[3] x;
+	x = aa(x[1]);
+}
+
+int[3] aa(int x){
+	int[5] a;
+	return a;
+}

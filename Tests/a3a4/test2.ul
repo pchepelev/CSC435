@@ -1,0 +1,57 @@
+void main () {
+	int a;
+	int b;
+	int c;
+	int d;
+	int[4] out;
+	string[5] strings;
+	string s1;
+	string s2;
+	string s3;
+	string s4;
+	string s5;
+	int i;
+	
+	a = 1;
+	b = 2;
+	c = 3;
+	d = 0;
+	
+	out[d] = multiply(a,b) * add(1,2,3);
+	out[1] = multiply(c,d) - add(1,0,c);
+	out[0*(2*52*5*3-5+5-111)+2] = multiply(d,d) + add(a,a,a);
+	out[3] = add(a,b,d) * add(d,b,a);
+	
+	i = 0;
+	while (i < 4) {
+		print(out[i]);
+		 print(", ");
+		 i = i+1;
+	}
+	
+	s1 = "hi";
+	s2 = "asefer";
+	s3 = "orange";
+	s4 = "csc";
+	s5 = "dfg";
+	
+	strings[0] = s1;
+	strings[1] = s2;
+	strings[2] = s3;
+	strings[3] = s4;
+	strings[4] = s5;
+	
+	i = 0;
+	while (i < 5) {
+		print(strings[i] + ", ");
+		println("next "+ "is");
+		 i = i+1;
+	}
+}
+
+int multiply (int x, int y) {
+	return x*y;
+}
+int add (int x, int y, int z) {
+	return x+y+z;
+}

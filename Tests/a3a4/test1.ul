@@ -1,0 +1,37 @@
+void main () {
+	float[5] array;
+	int i;
+	float inc;
+	char c;
+	array = setarray(array);
+	;
+	i = 0;
+	c = 'a';
+	inc = 1.0;
+	while (i < 5) {
+		if (i == 4) {
+			array[i] = 77.77777; 
+		} else {
+			array[i] = array[i] + inc;
+		}
+		i=i+1;
+		inc = inc+1.0;
+	}
+	i = 0;
+	while (i < 5) {
+		println array[i];
+		i = i + 1;
+	}
+	println c;
+	c = c+c;
+	println c;
+}
+
+float[5] setarray (float[5] a) {
+	a[0] = 0.0;
+	a[1] = 0.0;
+	a[2] = 0.0;
+	a[3] = 0.0;
+	a[4] = 0.0;
+	return a;
+}

@@ -1,0 +1,8 @@
+void main(){
+	int[5] x;
+	x = aa(x[1]);
+}
+
+int[5] aa(int x){
+
+}

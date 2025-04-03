@@ -1,0 +1,32 @@
+string [2] factorial (int n) {
+	int x;
+	int y;
+	float x;
+	x == 3;
+	x < 2;
+	println x;
+	print x;
+	if (x==3) {
+		3+3;
+	}
+	x = 3-2;
+	x[2] = 1;
+	return;
+}
+
+void main (int n, float y) {
+	int x;
+	string foo;
+	return 0;
+	if (foo == 22.1) {
+		print x;
+	} else {
+		while (x == 3) {
+			return;
+		}
+	}
+	while (x) {
+		x+3;
+	}
+	;
+}

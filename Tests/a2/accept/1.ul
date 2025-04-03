@@ -1,0 +1,7 @@
+void main(){
+	int x;
+}
+
+void a(){
+	int x;
+}
